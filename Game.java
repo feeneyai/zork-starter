@@ -47,7 +47,7 @@ class Game
       
         // create the rooms
         outside = new Room("the main entrance outside at Normal Community");
-        lab = new Room("the computer lab in Room 228");
+        lab = new Room("Mrs. Feeney's computer lab in Room 228");
         cafeteria = new Room("the cafeteria");
         imc = new Room("the IMC");
         office = new Room("the main office");
